@@ -1,0 +1,11 @@
+{
+    "name": "LongChest1k",
+    "version": "0.0.1",
+    "title": "Long Chest",
+    "author": "NEMUNEMU",
+    "contact": "",
+    "homepage": "",
+    "description": "1x9",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.87"]
+  }
