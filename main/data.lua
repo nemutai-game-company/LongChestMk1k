@@ -37,8 +37,8 @@ data:extend({
         percent = 30
       }
     },
-    collision_box = { { -0.35, -4.35 }, { 0.35, 4.35 } },
-    selection_box = { { -0.5, -4.5 }, { 0.5, 4.5 } },
+    collision_box = { { -0.35, -7.35 }, { 0.35, 7.35 } },
+    selection_box = { { -0.5, -7.5 }, { 0.5, 7.5 } },
     fast_replaceable_group = "container",
     inventory_size = 64,
     vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
